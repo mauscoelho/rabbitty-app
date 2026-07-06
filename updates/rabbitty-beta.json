@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.7",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.7/Rabbitty-Beta-0.1.0-beta.7.zip",
-  "sha256": "7cfce35945c27f3c69280db23a1c8afebb2dbfddf096d58ffb7fbc4fbe016115",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.7/Rabbitty-Beta-0.1.0-beta.7.dmg",
-  "notes": "opencode support: Rabbitty now detects opencode in the sidebar and reports its live status (Working / Needs you / Idle) via an auto-installed opencode plugin that aggregates across all its sessions. Adds an \"opencode Dark\" theme and lists opencode on rabbitty.app."
+  "version": "0.1.0-beta.8",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.8/Rabbitty-Beta-0.1.0-beta.8.zip",
+  "sha256": "60c798eef3828db0c6dd872d69a5aa5938e36aadaba8694fe30366435e62b422",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.8/Rabbitty-Beta-0.1.0-beta.8.dmg",
+  "notes": "Anonymous, opt-out telemetry (set telemetry = false to disable; documented on rabbitty.app). Plus a menu-bar fix so notifications keep showing the Rabbitty icon and stay clickable across long sessions (the helper is no longer reaped, and self-heals if it dies)."
 }
