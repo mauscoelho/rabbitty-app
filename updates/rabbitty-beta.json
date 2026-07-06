@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.6",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.6/Rabbitty-Beta-0.1.0-beta.6.zip",
-  "sha256": "18040fd8ea3334c62823e0d126d32a8269c5fcf86d81a1b9318e6be07bc5b77d",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.6/Rabbitty-Beta-0.1.0-beta.6.dmg",
-  "notes": "Migrated to rabbitty-app; added About panel (name·version·channel) and a faster update check."
+  "version": "0.1.0-beta.7",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.7/Rabbitty-Beta-0.1.0-beta.7.zip",
+  "sha256": "7cfce35945c27f3c69280db23a1c8afebb2dbfddf096d58ffb7fbc4fbe016115",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.7/Rabbitty-Beta-0.1.0-beta.7.dmg",
+  "notes": "opencode support: Rabbitty now detects opencode in the sidebar and reports its live status (Working / Needs you / Idle) via an auto-installed opencode plugin that aggregates across all its sessions. Adds an \"opencode Dark\" theme and lists opencode on rabbitty.app."
 }
