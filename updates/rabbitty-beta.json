@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0-beta.6",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.6/Rabbitty-Beta-0.1.0-beta.6.zip",
+  "sha256": "18040fd8ea3334c62823e0d126d32a8269c5fcf86d81a1b9318e6be07bc5b77d",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.6/Rabbitty-Beta-0.1.0-beta.6.dmg",
+  "notes": "Migrated to rabbitty-app; added About panel (name·version·channel) and a faster update check."
+}
