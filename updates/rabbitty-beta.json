@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.9",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.9/Rabbitty-Beta-0.1.0-beta.9.zip",
-  "sha256": "8de6a0181978ecb32f7780a0227a478213e11898108533b22f89df7827d5e628",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.9/Rabbitty-Beta-0.1.0-beta.9.dmg",
-  "notes": "Fix anonymous telemetry so events reach the right PostHog region (EU). No behavior change; still opt-out via telemetry = false."
+  "version": "0.1.0-beta.10",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.10/Rabbitty-Beta-0.1.0-beta.10.zip",
+  "sha256": "40701418ef0be12e6db640e838b242cc20964f71d493123325e84de2e536e58e",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.10/Rabbitty-Beta-0.1.0-beta.10.dmg",
+  "notes": "Telemetry now reaches PostHog (EU region) and the website reports too. Notifications keep the Rabbitty icon and stay clickable across long sessions (helper self-heals). Roomier, evenly-spaced command palette + quick switcher. Broader detection of other agent CLIs (Cursor, Copilot, Gemini, Goose, and more)."
 }
