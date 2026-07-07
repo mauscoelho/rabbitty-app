@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.16",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.16/Rabbitty-Beta-0.1.0-beta.16.zip",
-  "sha256": "25eb392f7477d8933a99111fdca051a48ccd681ff47f6f28a1bb91a09f3581b5",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.16/Rabbitty-Beta-0.1.0-beta.16.dmg",
-  "notes": "Usage AI: track AI agent limits and reset windows. Toggle active providers to manage keychain access. Loading progress animations."
+  "version": "0.1.0-beta.17",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.17/Rabbitty-Beta-0.1.0-beta.17.zip",
+  "sha256": "91b54b270bb3b55e48ed7aeeb6c1a22800497dcf78a3cdaf907bb2cebf51a6fa",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.17/Rabbitty-Beta-0.1.0-beta.17.dmg",
+  "notes": "Fix Changes panel state loss on 4s auto-refresh (expanded files collapse); replace header button inline hints with floating tooltips (like topbar tips)"
 }
