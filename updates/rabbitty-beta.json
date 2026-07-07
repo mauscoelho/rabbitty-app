@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.12",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.12/Rabbitty-Beta-0.1.0-beta.12.zip",
-  "sha256": "98237e5ab49efd9616e5d0ec77a387f88ee24006b6b94f282610310a6acea63c",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.12/Rabbitty-Beta-0.1.0-beta.12.dmg",
-  "notes": "New: an Open-in-editor button (top-right) and ⌘O to open the current folder in Zed / VS Code / your editor of choice, also in the command palette. The sidebar footer now gently rotates through the key shortcuts so they're easy to discover."
+  "version": "0.1.0-beta.13",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.13/Rabbitty-Beta-0.1.0-beta.13.zip",
+  "sha256": "fa55aa2938337d9bee433cfde38b491936e2424e037bba6375a4f7e8bfd6e335",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.13/Rabbitty-Beta-0.1.0-beta.13.dmg",
+  "notes": "Fix: selecting text now auto-scrolls when you drag past the top or bottom edge, so you can select beyond what's on screen — like a normal terminal."
 }
