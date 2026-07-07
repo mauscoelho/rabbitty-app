@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.13",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.13/Rabbitty-Beta-0.1.0-beta.13.zip",
-  "sha256": "fa55aa2938337d9bee433cfde38b491936e2424e037bba6375a4f7e8bfd6e335",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.13/Rabbitty-Beta-0.1.0-beta.13.dmg",
-  "notes": "Fix: selecting text now auto-scrolls when you drag past the top or bottom edge, so you can select beyond what's on screen — like a normal terminal."
+  "version": "0.1.0-beta.14",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.14/Rabbitty-Beta-0.1.0-beta.14.zip",
+  "sha256": "097c0d7e50103fef8edbd95f7b4bbfcbb4153eb6c02ba93a1309be621b610c08",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.14/Rabbitty-Beta-0.1.0-beta.14.dmg",
+  "notes": "Polish: shortcut tooltips under the sidebar toggle and the Open button, a slightly slimmer top bar, and the selection auto-scroll fix from beta.13."
 }
