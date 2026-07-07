@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.10",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.10/Rabbitty-Beta-0.1.0-beta.10.zip",
-  "sha256": "40701418ef0be12e6db640e838b242cc20964f71d493123325e84de2e536e58e",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.10/Rabbitty-Beta-0.1.0-beta.10.dmg",
-  "notes": "Telemetry now reaches PostHog (EU region) and the website reports too. Notifications keep the Rabbitty icon and stay clickable across long sessions (helper self-heals). Roomier, evenly-spaced command palette + quick switcher. Broader detection of other agent CLIs (Cursor, Copilot, Gemini, Goose, and more)."
+  "version": "0.1.0-beta.11",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.11/Rabbitty-Beta-0.1.0-beta.11.zip",
+  "sha256": "add12867226cd501fa2ff4b059d99435b156f4a485383b216db918cd37168234",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.11/Rabbitty-Beta-0.1.0-beta.11.dmg",
+  "notes": "Fix opencode status stuck on Idle: the status plugin now installs based on opencode's config dir instead of Rabbitty's launch PATH, so it works when Rabbitty is opened from the Dock (not just a terminal)."
 }
