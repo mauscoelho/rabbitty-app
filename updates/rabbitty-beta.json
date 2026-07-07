@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.14",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.14/Rabbitty-Beta-0.1.0-beta.14.zip",
-  "sha256": "097c0d7e50103fef8edbd95f7b4bbfcbb4153eb6c02ba93a1309be621b610c08",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.14/Rabbitty-Beta-0.1.0-beta.14.dmg",
-  "notes": "Polish: shortcut tooltips under the sidebar toggle and the Open button, a slightly slimmer top bar, and the selection auto-scroll fix from beta.13."
+  "version": "0.1.0-beta.15",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.15/Rabbitty-Beta-0.1.0-beta.15.zip",
+  "sha256": "6a526264bf7e963ea51280a251f7c80dfac585029e218b1c870908c7d374ab42",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.15/Rabbitty-Beta-0.1.0-beta.15.dmg",
+  "notes": "Mac-standard line editing at the shell prompt: ⌘←/→ jump to line start/end, ⌥←/→ move by word, ⌘⌫ clears the line, and ⌘Z undoes your last edit (a paste included)."
 }
