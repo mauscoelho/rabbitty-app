@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.8",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.8/Rabbitty-Beta-0.1.0-beta.8.zip",
-  "sha256": "60c798eef3828db0c6dd872d69a5aa5938e36aadaba8694fe30366435e62b422",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.8/Rabbitty-Beta-0.1.0-beta.8.dmg",
-  "notes": "Anonymous, opt-out telemetry (set telemetry = false to disable; documented on rabbitty.app). Plus a menu-bar fix so notifications keep showing the Rabbitty icon and stay clickable across long sessions (the helper is no longer reaped, and self-heals if it dies)."
+  "version": "0.1.0-beta.9",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.9/Rabbitty-Beta-0.1.0-beta.9.zip",
+  "sha256": "8de6a0181978ecb32f7780a0227a478213e11898108533b22f89df7827d5e628",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.9/Rabbitty-Beta-0.1.0-beta.9.dmg",
+  "notes": "Fix anonymous telemetry so events reach the right PostHog region (EU). No behavior change; still opt-out via telemetry = false."
 }
