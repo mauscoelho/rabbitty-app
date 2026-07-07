@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.11",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.11/Rabbitty-Beta-0.1.0-beta.11.zip",
-  "sha256": "add12867226cd501fa2ff4b059d99435b156f4a485383b216db918cd37168234",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.11/Rabbitty-Beta-0.1.0-beta.11.dmg",
-  "notes": "Fix opencode status stuck on Idle: the status plugin now installs based on opencode's config dir instead of Rabbitty's launch PATH, so it works when Rabbitty is opened from the Dock (not just a terminal)."
+  "version": "0.1.0-beta.12",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.12/Rabbitty-Beta-0.1.0-beta.12.zip",
+  "sha256": "98237e5ab49efd9616e5d0ec77a387f88ee24006b6b94f282610310a6acea63c",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.12/Rabbitty-Beta-0.1.0-beta.12.dmg",
+  "notes": "New: an Open-in-editor button (top-right) and ⌘O to open the current folder in Zed / VS Code / your editor of choice, also in the command palette. The sidebar footer now gently rotates through the key shortcuts so they're easy to discover."
 }
