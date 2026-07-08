@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.23",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.23/Rabbitty-Beta-0.1.0-beta.23.zip",
-  "sha256": "1ef63b8580a1af6bdffee3ee41f218ec7f235b3732f2e31d7aa1bfa6e85b7b72",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.23/Rabbitty-Beta-0.1.0-beta.23.dmg",
-  "notes": "Fix startup history loading with robust paths matching and remove mtime limit"
+  "version": "0.1.0-beta.24",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.24/Rabbitty-Beta-0.1.0-beta.24.zip",
+  "sha256": "0765cb32b27c1cc254ba4bb6f2f79c3af0a50c8700a1e4ce750de3118d2e1b92",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.24/Rabbitty-Beta-0.1.0-beta.24.dmg",
+  "notes": "Much faster Changes / AI Trail panel — instant open, lazy diff highlighting, and idle polls that short-circuit instead of rescanning. AI Trail now auto-expands only the latest chapter, with a little more top spacing."
 }
