@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.24",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.24/Rabbitty-Beta-0.1.0-beta.24.zip",
-  "sha256": "0765cb32b27c1cc254ba4bb6f2f79c3af0a50c8700a1e4ce750de3118d2e1b92",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.24/Rabbitty-Beta-0.1.0-beta.24.dmg",
-  "notes": "Much faster Changes / AI Trail panel — instant open, lazy diff highlighting, and idle polls that short-circuit instead of rescanning. AI Trail now auto-expands only the latest chapter, with a little more top spacing."
+  "version": "0.1.0-beta.25",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.25/Rabbitty-Beta-0.1.0-beta.25.zip",
+  "sha256": "7c59509b76b972b2c376ca89c42d4b0d7fe60b8789845f58e30c2f8874fc1674",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.25/Rabbitty-Beta-0.1.0-beta.25.dmg",
+  "notes": "AI Trail redesign: content-first timeline rows — the prompt leads as the hero with a quiet actor · time byline, a continuous spine with nodes level to each row, adaptive multi-line prompts, day dividers, per-file evidence, and per-workspace scoping."
 }
