@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.18",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.18/Rabbitty-Beta-0.1.0-beta.18.zip",
-  "sha256": "8bb129e5a47d087ed897e83457bfd721863f70a0315084fcb2544eaa0ad3f03f",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.18/Rabbitty-Beta-0.1.0-beta.18.dmg",
-  "notes": "Removed the Usage panel for now — it couldn't read limits reliably from the app, so we've paused it while we rethink the approach. Agent status (including the Limit pill when an agent hits a rate limit) is unchanged."
+  "version": "0.1.0-beta.19",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.19/Rabbitty-Beta-0.1.0-beta.19.zip",
+  "sha256": "8f70d41593d2a0433a72c3b64e983eb89d143538fbad136c1d28767b8177953f",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.19/Rabbitty-Beta-0.1.0-beta.19.dmg",
+  "notes": "Changes panel: fixed a race where expanding/collapsing a file while the 4s auto-refresh was in flight could revert your click — expand state is now always preserved. Removed the redundant refresh button and loading flicker; background refreshes are invisible and skip repainting when nothing changed."
 }
