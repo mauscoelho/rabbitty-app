@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.19",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.19/Rabbitty-Beta-0.1.0-beta.19.zip",
-  "sha256": "8f70d41593d2a0433a72c3b64e983eb89d143538fbad136c1d28767b8177953f",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.19/Rabbitty-Beta-0.1.0-beta.19.dmg",
-  "notes": "Changes panel: fixed a race where expanding/collapsing a file while the 4s auto-refresh was in flight could revert your click — expand state is now always preserved. Removed the redundant refresh button and loading flicker; background refreshes are invisible and skip repainting when nothing changed."
+  "version": "0.1.0-beta.20",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.20/Rabbitty-Beta-0.1.0-beta.20.zip",
+  "sha256": "300de37455b12bd2f8b8bd6509a2c2eb2ae2792052cbcc35abc5566b48a08d7e",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.20/Rabbitty-Beta-0.1.0-beta.20.dmg",
+  "notes": "AI Trail view toggling, shortcut cmd-shift-t, and command palette integration"
 }
