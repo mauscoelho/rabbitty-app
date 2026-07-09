@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.26",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.26/Rabbitty-Beta-0.1.0-beta.26.zip",
-  "sha256": "41dd07f7dc3e37effadbdcfc4cf171d30f16bec8a1cfde3031f30e7f001cbfdd",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.26/Rabbitty-Beta-0.1.0-beta.26.dmg",
-  "notes": "Review: remove chapter-level approve, auto-mark files as reviewed on diff open"
+  "version": "0.1.0-beta.27",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.27/Rabbitty-Beta-0.1.0-beta.27.zip",
+  "sha256": "384c56a5c29e80f4f4cf09f716bad1d9e28b3912c279fd7f65bd99677a03430d",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.27/Rabbitty-Beta-0.1.0-beta.27.dmg",
+  "notes": "AI Trail activity-feed redesign (evidence cards, agent avatars, step fine print), sidebar worktree lineage with path-style headers and quiet status pills, usage-limit detection badge, welcome-back briefing removed (the timeline is the resume), fixed the resize white-flash and scroll loss"
 }
