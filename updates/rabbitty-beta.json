@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.27",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.27/Rabbitty-Beta-0.1.0-beta.27.zip",
-  "sha256": "384c56a5c29e80f4f4cf09f716bad1d9e28b3912c279fd7f65bd99677a03430d",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.27/Rabbitty-Beta-0.1.0-beta.27.dmg",
-  "notes": "AI Trail activity-feed redesign (evidence cards, agent avatars, step fine print), sidebar worktree lineage with path-style headers and quiet status pills, usage-limit detection badge, welcome-back briefing removed (the timeline is the resume), fixed the resize white-flash and scroll loss"
+  "version": "0.1.0-beta.28",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.28/Rabbitty-Beta-0.1.0-beta.28.zip",
+  "sha256": "9328a7c19ab4b48f57a7ce3abdc64eb04fa7e50f6d12a10ec69be43164306d58",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.28/Rabbitty-Beta-0.1.0-beta.28.dmg",
+  "notes": "Worktree-aware Trail merges: merge milestones show the merged branch and commit count, and expand into the merged branch's full story — chapters, review marks, and review debt all cross the merge (nested rows indent under the merge node). Sidebar: RUNNING now wears the soft working blue (pill + ring dot), and worktree headers ellipsize cleanly."
 }
