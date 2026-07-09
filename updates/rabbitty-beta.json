@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.25",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.25/Rabbitty-Beta-0.1.0-beta.25.zip",
-  "sha256": "7c59509b76b972b2c376ca89c42d4b0d7fe60b8789845f58e30c2f8874fc1674",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.25/Rabbitty-Beta-0.1.0-beta.25.dmg",
-  "notes": "AI Trail redesign: content-first timeline rows — the prompt leads as the hero with a quiet actor · time byline, a continuous spine with nodes level to each row, adaptive multi-line prompts, day dividers, per-file evidence, and per-workspace scoping."
+  "version": "0.1.0-beta.26",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.26/Rabbitty-Beta-0.1.0-beta.26.zip",
+  "sha256": "41dd07f7dc3e37effadbdcfc4cf171d30f16bec8a1cfde3031f30e7f001cbfdd",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.26/Rabbitty-Beta-0.1.0-beta.26.dmg",
+  "notes": "Review: remove chapter-level approve, auto-mark files as reviewed on diff open"
 }
