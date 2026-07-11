@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.30",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.30/Rabbitty-Beta-0.1.0-beta.30.zip",
-  "sha256": "fa75200d5411965d1cb34db82fb286cae9152ec6e3c9116755fc9cae146b8fca",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.30/Rabbitty-Beta-0.1.0-beta.30.dmg",
-  "notes": "⌘P quick switcher (attention-sorted lanes + their terminals, needs-you-first). Worktree status marks in the sidebar. ⌘N to create a new worktree. 10 new built-in themes (22 total). Smarter delete-worktree flow that reads git status and adapts the options. Claude Code's auto theme now follows the app theme. Fixed a false LIMIT badge from per-model rate caps."
+  "version": "0.1.0-beta.31",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.31/Rabbitty-Beta-0.1.0-beta.31.zip",
+  "sha256": "a456d1703097f72d4f8ee16236d190cd4741e535bd7800f74d9b1bab38f71cea",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.31/Rabbitty-Beta-0.1.0-beta.31.dmg",
+  "notes": "Redesigned the worktree AI-activity trail in the sidebar, with a cleaner parent/name layout and active-card treatment. Improvements across the Claude / Codex / OpenCode / Antigravity activity trails and git status detection, plus a website copy refresh."
 }
