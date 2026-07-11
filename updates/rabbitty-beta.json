@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.29",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.29/Rabbitty-Beta-0.1.0-beta.29.zip",
-  "sha256": "e74d94c69dc2c957be49b33f296eb43e92573ee7332e11dfb59d382eb8f9e63f",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.29/Rabbitty-Beta-0.1.0-beta.29.dmg",
-  "notes": "Worktrees become first-class: create from the palette (agent follows), persistent badged sidebar rows, safe delete (terminals close first, idle tabs swept, unmerged work prompts merge-or-discard), and opt-in dangerous mode for agents. Command palette: Zed-style command grammar, toggle states on rows, two-step theme picker. Simpler AI Trail: last 3 chapters, full prompt on expand. Dev builds show a Rebuilt pill when a newer build lands on disk."
+  "version": "0.1.0-beta.30",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.30/Rabbitty-Beta-0.1.0-beta.30.zip",
+  "sha256": "fa75200d5411965d1cb34db82fb286cae9152ec6e3c9116755fc9cae146b8fca",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.30/Rabbitty-Beta-0.1.0-beta.30.dmg",
+  "notes": "⌘P quick switcher (attention-sorted lanes + their terminals, needs-you-first). Worktree status marks in the sidebar. ⌘N to create a new worktree. 10 new built-in themes (22 total). Smarter delete-worktree flow that reads git status and adapts the options. Claude Code's auto theme now follows the app theme. Fixed a false LIMIT badge from per-model rate caps."
 }
