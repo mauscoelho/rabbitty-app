@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.31",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.31/Rabbitty-Beta-0.1.0-beta.31.zip",
-  "sha256": "a456d1703097f72d4f8ee16236d190cd4741e535bd7800f74d9b1bab38f71cea",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.31/Rabbitty-Beta-0.1.0-beta.31.dmg",
-  "notes": "Redesigned the worktree AI-activity trail in the sidebar, with a cleaner parent/name layout and active-card treatment. Improvements across the Claude / Codex / OpenCode / Antigravity activity trails and git status detection, plus a website copy refresh."
+  "version": "0.1.0-beta.32",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.32/Rabbitty-Beta-0.1.0-beta.32.zip",
+  "sha256": "2d5dc0517c97c9be6d6c6c71f8ec1923985bfefaf757945dd9e76efe4ca71ba0",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.32/Rabbitty-Beta-0.1.0-beta.32.dmg",
+  "notes": "GitHub Copilot CLI is now a first-class agent, with its own activity trail alongside Claude, Codex, OpenCode and Antigravity. New worktree creation flow with an inline name input, and you can now carry uncommitted work between worktrees. Links in the terminal are clickable. Fixed the quick switcher not closing, plus further polish on the AI activity trails and dialogs."
 }
