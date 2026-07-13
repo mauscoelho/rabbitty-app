@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.37",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.37/Rabbitty-Beta-0.1.0-beta.37.zip",
-  "sha256": "9885465c7154428a516e8162a8e217d869cd66d3b2a2252fe5cb585df4a3257a",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.37/Rabbitty-Beta-0.1.0-beta.37.dmg",
-  "notes": "Cursor CLI joins the lineup. cursor-agent is now a first-class agent with its own activity trail, alongside Claude, Codex, Copilot, OpenCode and Antigravity. Also fixed: a tab whose agent had finished no longer blended in with the idle ones — a finish you have not seen yet is still asking for you, so it keeps its status pill. New Tips page in the docs at rabbitty.app/docs/tips."
+  "version": "0.1.0-beta.38",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.38/Rabbitty-Beta-0.1.0-beta.38.zip",
+  "sha256": "64fd00ff8ddc8e774d5f8839e0e0c6c6ca975a3892bdb4fe688b164995982487",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.38/Rabbitty-Beta-0.1.0-beta.38.dmg",
+  "notes": "⌘T now starts an agent — it opens the launcher on the project you are in, and Enter starts the agent you used last. A plain new terminal moves to ⌘⇧T, and the Trail panel moves to ⌘⇧L. Projects you pin (⌘⇧O, or the pin on a project header) now outlive their terminals and survive a quit, so a lane you care about stays in the sidebar with nothing running in it. The launcher is a picker rather than a second sidebar: one gesture per project, an agent list that scales, and it opens only when you ask for it. The sidebar itself is quieter — a project is its name and its branch, and the + on a hovered header is the way in."
 }
