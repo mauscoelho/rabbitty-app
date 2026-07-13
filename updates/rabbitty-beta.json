@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.33",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.33/Rabbitty-Beta-0.1.0-beta.33.zip",
-  "sha256": "962937fd3094cba4522145fcb133ae2e81a73208d475c1fce74e626d4be8b00c",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.33/Rabbitty-Beta-0.1.0-beta.33.dmg",
-  "notes": "Now signed with a Developer ID and notarized by Apple — installs with no Gatekeeper warning and no --no-quarantine. GitHub Copilot CLI is a first-class agent, with its own activity trail alongside Claude, Codex, OpenCode and Antigravity. New worktree creation flow with an inline name input, and you can now carry uncommitted work between worktrees. Links in the terminal are clickable. Fixed the quick switcher not closing, plus further polish on the AI activity trails and dialogs."
+  "version": "0.1.0-beta.34",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.34/Rabbitty-Beta-0.1.0-beta.34.zip",
+  "sha256": "373ff9178c63084d88651d1839127abe200347c483d82165124a7af484ff0787",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.34/Rabbitty-Beta-0.1.0-beta.34.dmg",
+  "notes": "Review a diff and talk back to the agent that wrote it. Comment on any line in the Changes panel (⌘⇧G), then ⌘⇧⏎ sends every comment straight into that worktree's agent — no retyping your objections from memory, no copy-paste. Plus a new quota gauge in the sidebar showing the active tab's agent and how much of its limit is left, read natively per provider."
 }
