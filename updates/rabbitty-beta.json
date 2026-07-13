@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.34",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.34/Rabbitty-Beta-0.1.0-beta.34.zip",
-  "sha256": "373ff9178c63084d88651d1839127abe200347c483d82165124a7af484ff0787",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.34/Rabbitty-Beta-0.1.0-beta.34.dmg",
-  "notes": "Review a diff and talk back to the agent that wrote it. Comment on any line in the Changes panel (⌘⇧G), then ⌘⇧⏎ sends every comment straight into that worktree's agent — no retyping your objections from memory, no copy-paste. Plus a new quota gauge in the sidebar showing the active tab's agent and how much of its limit is left, read natively per provider."
+  "version": "0.1.0-beta.35",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.35/Rabbitty-Beta-0.1.0-beta.35.zip",
+  "sha256": "a4914075d0a194e792916e9c5ed710fe1841382cb1cb7869dffa6ebf29285690",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.35/Rabbitty-Beta-0.1.0-beta.35.dmg",
+  "notes": "Polish pass. The agent quota gauge now sits at the bottom of the sidebar, where it reads as part of the footer rather than competing with the worktree list. Creating a worktree now shows a proper dialog while it works, instead of leaving you guessing. The AI trail no longer drafts a commit message — it was noise, and it is gone."
 }
