@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.36",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.36/Rabbitty-Beta-0.1.0-beta.36.zip",
-  "sha256": "fee728a1a5b105be1c7a0ba0aef0a48cd6f0a1ad4eebcefaac7ad9c7e489611c",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.36/Rabbitty-Beta-0.1.0-beta.36.dmg",
-  "notes": "Sidebar rework. Worktrees now hang under their parent repo: the repo name is said once as a header, and each branch lines up beneath it, so a repo with four worktrees reads as one group instead of four repetitions of the same name. A worktree that is level with main drops its status badge entirely — a quiet checkout stays quiet."
+  "version": "0.1.0-beta.37",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.37/Rabbitty-Beta-0.1.0-beta.37.zip",
+  "sha256": "9885465c7154428a516e8162a8e217d869cd66d3b2a2252fe5cb585df4a3257a",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.37/Rabbitty-Beta-0.1.0-beta.37.dmg",
+  "notes": "Cursor CLI joins the lineup. cursor-agent is now a first-class agent with its own activity trail, alongside Claude, Codex, Copilot, OpenCode and Antigravity. Also fixed: a tab whose agent had finished no longer blended in with the idle ones — a finish you have not seen yet is still asking for you, so it keeps its status pill. New Tips page in the docs at rabbitty.app/docs/tips."
 }
