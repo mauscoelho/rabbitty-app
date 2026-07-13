@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.35",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.35/Rabbitty-Beta-0.1.0-beta.35.zip",
-  "sha256": "a4914075d0a194e792916e9c5ed710fe1841382cb1cb7869dffa6ebf29285690",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.35/Rabbitty-Beta-0.1.0-beta.35.dmg",
-  "notes": "Polish pass. The agent quota gauge now sits at the bottom of the sidebar, where it reads as part of the footer rather than competing with the worktree list. Creating a worktree now shows a proper dialog while it works, instead of leaving you guessing. The AI trail no longer drafts a commit message — it was noise, and it is gone."
+  "version": "0.1.0-beta.36",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.36/Rabbitty-Beta-0.1.0-beta.36.zip",
+  "sha256": "fee728a1a5b105be1c7a0ba0aef0a48cd6f0a1ad4eebcefaac7ad9c7e489611c",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.36/Rabbitty-Beta-0.1.0-beta.36.dmg",
+  "notes": "Sidebar rework. Worktrees now hang under their parent repo: the repo name is said once as a header, and each branch lines up beneath it, so a repo with four worktrees reads as one group instead of four repetitions of the same name. A worktree that is level with main drops its status badge entirely — a quiet checkout stays quiet."
 }
