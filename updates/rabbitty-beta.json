@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.39",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.39/Rabbitty-Beta-0.1.0-beta.39.zip",
-  "sha256": "04b319886561c2df716eb82412c10814bcc2c3d047cfaeada884a83c0d23ceb7",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.39/Rabbitty-Beta-0.1.0-beta.39.dmg",
-  "notes": "Sidebar tip footer: keycap sits further from the edge, and the footer takes less vertical room."
+  "version": "0.1.0-beta.40",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.40/Rabbitty-Beta-0.1.0-beta.40.zip",
+  "sha256": "e9a2bddffea9cf88018a9bf62de7b01a93f0d39d38eaaf056e8c5c04c97fa3ff",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.40/Rabbitty-Beta-0.1.0-beta.40.dmg",
+  "notes": "Launcher: ⌘K on any agent row opens its actions — install, update, uninstall, or show the binary in Finder. Every action shows the exact command it runs before you press ⏎."
 }
