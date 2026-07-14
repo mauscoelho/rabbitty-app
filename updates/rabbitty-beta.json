@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.38",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.38/Rabbitty-Beta-0.1.0-beta.38.zip",
-  "sha256": "64fd00ff8ddc8e774d5f8839e0e0c6c6ca975a3892bdb4fe688b164995982487",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.38/Rabbitty-Beta-0.1.0-beta.38.dmg",
-  "notes": "⌘T now starts an agent — it opens the launcher on the project you are in, and Enter starts the agent you used last. A plain new terminal moves to ⌘⇧T, and the Trail panel moves to ⌘⇧L. Projects you pin (⌘⇧O, or the pin on a project header) now outlive their terminals and survive a quit, so a lane you care about stays in the sidebar with nothing running in it. The launcher is a picker rather than a second sidebar: one gesture per project, an agent list that scales, and it opens only when you ask for it. The sidebar itself is quieter — a project is its name and its branch, and the + on a hovered header is the way in."
+  "version": "0.1.0-beta.39",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.39/Rabbitty-Beta-0.1.0-beta.39.zip",
+  "sha256": "04b319886561c2df716eb82412c10814bcc2c3d047cfaeada884a83c0d23ceb7",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.39/Rabbitty-Beta-0.1.0-beta.39.dmg",
+  "notes": "Sidebar tip footer: keycap sits further from the edge, and the footer takes less vertical room."
 }
