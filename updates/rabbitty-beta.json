@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.42",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.42/Rabbitty-Beta-0.1.0-beta.42.zip",
-  "sha256": "7c6b7965ef809d69796366265700eeab81a9f531e73e23912a62ab3d42365b6a",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.42/Rabbitty-Beta-0.1.0-beta.42.dmg",
-  "notes": "In-app browser preview (⌘⇧B or 'Toggle Browser Panel' in the palette) — a native pane for the local web app you're building; log in once and re-check after each edit. Claude tabs can drive it too: navigate, run JS, read the captured console/network. The AI Trail's forward-facing worktree Standing band (⌘⇧T). Copilot fully integrated — status pills and quota for npm-installed Copilot. Fixes from the Paseo/OpenChamber code-cross: hooks no longer hijack every claude run on the machine, ZDOTDIR restored exactly as found, and more."
+  "version": "0.1.0-beta.43",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.43/Rabbitty-Beta-0.1.0-beta.43.zip",
+  "sha256": "03cd379155df1ce37f60acd626bdc8489046a066ee65e2911eab48a2589336ee",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.43/Rabbitty-Beta-0.1.0-beta.43.dmg",
+  "notes": "Fix: launching a new-worktree agent with an opening prompt no longer loses the prompt — Claude's variadic --mcp-config was swallowing it as a config path; now separated with --."
 }
