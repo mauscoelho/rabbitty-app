@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.41",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.41/Rabbitty-Beta-0.1.0-beta.41.zip",
-  "sha256": "5391445f00d8d5e750af71044dad28b0508312f1257a523084638250cf853f02",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.41/Rabbitty-Beta-0.1.0-beta.41.dmg",
-  "notes": "Copilot fully integrated — status pills work for npm-installed Copilot, and the usage gauge reads its real quota. The rotating tip moved to the bottom bar's right end (and now survives ⌘B). Flatter top bar: one button shape, outlines only on hover. The Changes panel is now opened from the bottom bar's branch chip. Worktree creation grew a carried-files checklist (⌘⇧C). Sidebar header with 'add a project', and ⌘⌫ deletes a worktree."
+  "version": "0.1.0-beta.42",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.42/Rabbitty-Beta-0.1.0-beta.42.zip",
+  "sha256": "7c6b7965ef809d69796366265700eeab81a9f531e73e23912a62ab3d42365b6a",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.42/Rabbitty-Beta-0.1.0-beta.42.dmg",
+  "notes": "In-app browser preview (⌘⇧B or 'Toggle Browser Panel' in the palette) — a native pane for the local web app you're building; log in once and re-check after each edit. Claude tabs can drive it too: navigate, run JS, read the captured console/network. The AI Trail's forward-facing worktree Standing band (⌘⇧T). Copilot fully integrated — status pills and quota for npm-installed Copilot. Fixes from the Paseo/OpenChamber code-cross: hooks no longer hijack every claude run on the machine, ZDOTDIR restored exactly as found, and more."
 }
