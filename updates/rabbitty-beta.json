@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.46",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.46/Rabbitty-Beta-0.1.0-beta.46.zip",
-  "sha256": "dbc06590d2276c72aa49b72167520b7ed54215a0b0b766730e3e958e1bb7bb8d",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.46/Rabbitty-Beta-0.1.0-beta.46.dmg",
-  "notes": "IMPORTANT FIX — your shell config works again. Release builds pointed zsh at a startup directory that was never created, so terminals loaded none of your config: no prompt, no aliases, no PATH. If Rabbitty's terminal felt broken, this was why. The startup dir is now only used after a write we verified succeeded.\n\nAlso: Grok is now a supported agent (status, transcripts, AI Trail). Browsers are per-lane — each project/worktree remembers its own page; lanes now start on the empty state rather than inheriting an unrelated project's URL, so expect a one-time reset."
+  "version": "0.1.0-beta.47",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.47/Rabbitty-Beta-0.1.0-beta.47.zip",
+  "sha256": "32dc5049ae1318965ffe0571799a56ce724a043665dc6e3c6af89f4ef7c45a11",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.47/Rabbitty-Beta-0.1.0-beta.47.dmg",
+  "notes": "Fixes updates for anyone stuck on beta.45 or earlier: beta.46's update feed was published with unescaped release notes, so it didn't parse and the Update pill silently never appeared. The feed is now built with jq and verified before it's pushed.\n\nGrok support continues to fill in — agent status and transcript scraping."
 }
