@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.44",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.44/Rabbitty-Beta-0.1.0-beta.44.zip",
-  "sha256": "f95624e211a37baad0f8295603b64a95d476c217ff9fc9f380313063896ed50e",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.44/Rabbitty-Beta-0.1.0-beta.44.dmg",
-  "notes": "Per-lane browsers — each project/worktree keeps its own page and login, restored across launches. New terminal-control MCP: agents can start, watch and kill dev servers in managed tabs owned by their pane (auto-reaped when the pane closes). AI Trail Product Note rewritten around an auto-generated summary. Browser pane drag-resize, mobile/tablet/desktop snap widths, and a hand-typed `claude` now picks up Rabbitty's MCP tools automatically."
+  "version": "0.1.0-beta.45",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.45/Rabbitty-Beta-0.1.0-beta.45.zip",
+  "sha256": "20935a9c545f362bc63a8959f6ee9e1010bf0c0129420ffcb08d0db24926f319",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.45/Rabbitty-Beta-0.1.0-beta.45.dmg",
+  "notes": "Fixes an AI Trail summary regenerate loop: the summary is now written once when the Note opens and stands until you click regenerate, instead of re-running itself every time the transcript sweep shifted the corpus underneath it (which burned a headless agent run each lap). Trail rendering fixes, plus the ⌘N worktree prompt now asks what the agent should do rather than reading as a label field."
 }
