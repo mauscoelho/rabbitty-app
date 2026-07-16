@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.43",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.43/Rabbitty-Beta-0.1.0-beta.43.zip",
-  "sha256": "03cd379155df1ce37f60acd626bdc8489046a066ee65e2911eab48a2589336ee",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.43/Rabbitty-Beta-0.1.0-beta.43.dmg",
-  "notes": "Fix: launching a new-worktree agent with an opening prompt no longer loses the prompt — Claude's variadic --mcp-config was swallowing it as a config path; now separated with --."
+  "version": "0.1.0-beta.44",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.44/Rabbitty-Beta-0.1.0-beta.44.zip",
+  "sha256": "f95624e211a37baad0f8295603b64a95d476c217ff9fc9f380313063896ed50e",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.44/Rabbitty-Beta-0.1.0-beta.44.dmg",
+  "notes": "Per-lane browsers — each project/worktree keeps its own page and login, restored across launches. New terminal-control MCP: agents can start, watch and kill dev servers in managed tabs owned by their pane (auto-reaped when the pane closes). AI Trail Product Note rewritten around an auto-generated summary. Browser pane drag-resize, mobile/tablet/desktop snap widths, and a hand-typed `claude` now picks up Rabbitty's MCP tools automatically."
 }
