@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.50",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.50/Rabbitty-Beta-0.1.0-beta.50.zip",
-  "sha256": "a77b37cd9828249b772c8e37108a5c9ccc4825087773da5e98c37d39f9a8a326",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.50/Rabbitty-Beta-0.1.0-beta.50.dmg",
-  "notes": "Workspaces remember your place. Entering a workspace — by ⌘1–9 or by clicking its lane in the sidebar — now returns you to the tab you were last on there, instead of always snapping to its first terminal. Each workspace tracks its own last tab independently, and the memory is seeded on launch so the first hop away and back works too.\n\nAlso: a new ⌘⌥O 'Recent workspaces' hint in the tips rotation."
+  "version": "0.1.0-beta.51",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.51/Rabbitty-Beta-0.1.0-beta.51.zip",
+  "sha256": "7ac89ba1982fdd9592e1f6c0d42783146cc68fc2616b724a0a15f8844225d1b8",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.51/Rabbitty-Beta-0.1.0-beta.51.dmg",
+  "notes": "Rabbitty's browser + terminal control MCP servers now auto-register into six more agents — opencode, Cursor, Copilot, Antigravity, Codex, and Grok — not just Claude. Each gets our two servers merged into its own config file, idempotently and additively: your own MCP servers, comments, and formatting are left untouched. So the in-app browser and managed dev-server tabs work from whichever agent you launch.\n\nNotifications got more reliable: clicking 'Show' on a banner now focuses the right terminal by a stable id, even after you've reordered or closed tabs, and every banner (including errors) now carries Rabbitty's icon.\n\nQuick switcher (⌘P) redesign: every terminal is a flat row with a full 'workspace / lane · name' breadcrumb and a status dot, so you can jump to any agent or shell anywhere — including plain shells, which were missing before. Search now matches workspace names too."
 }
