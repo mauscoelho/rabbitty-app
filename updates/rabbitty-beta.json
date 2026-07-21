@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.48",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.48/Rabbitty-Beta-0.1.0-beta.48.zip",
-  "sha256": "abcb8168cef83c0fadf51b578e9914ca72110caa05399290b7e48a6658c793ee",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.48/Rabbitty-Beta-0.1.0-beta.48.dmg",
-  "notes": "The sidebar is now built on workspaces: add one with ⌘⇧O, close it from its header, and jump with ⌘1–9. Tabs that don't belong to any workspace collect in a Scratch section, and a shell that cd's out of its workspace re-files there automatically.\n\nSessions moved up into the top bar — one chip per tab with a breathing status dot, scrolling instead of shrinking when they overflow. Each workspace row in the sidebar shows live agent counts by state (running / idle / needs approval) and the git picture at a glance (+N −N, ahead/behind).\n\nThe browser pane remembers its open/close per workspace — and a browser an agent opens in a background worktree waits until you switch there. ⌘⇧L in a worktree now opens with the thread's original ask, verbatim."
+  "version": "0.1.0-beta.49",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.49/Rabbitty-Beta-0.1.0-beta.49.zip",
+  "sha256": "611e2428a9261e5f457dc7a0e9daf1cc89a7db39cd391bc382f294ebf17ef7d1",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.49/Rabbitty-Beta-0.1.0-beta.49.dmg",
+  "notes": "Dev-server ports in the sidebar — a running server (:3000) shows a chip on its lane; click it to open that lane's in-app browser straight on localhost.\n\n⌘-click now opens URLs that wrap across lines whole — including the hard-wrapped links Claude Code and other TUIs print, where clicking any row resolves the full link.\n\nWorkspaces: ⌘⌥O reopens a recently-closed workspace and its terminals; ⌘⌥↓/↑ cycles workspaces; ⌘⌥⌫ removes one. ⌘P quick switcher now shows each terminal's agent logo and reads 'workspace / lane'. Scratch terminals get per-lane cards you can promote to a workspace.\n\nPolish: radar-ping status dot for working agents; Changes-panel file headers stop clipping long names; browser address bar reads host/path flush; the worktree-delete prompt takes focus so Enter confirms right away."
 }
