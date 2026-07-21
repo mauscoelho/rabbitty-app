@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.49",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.49/Rabbitty-Beta-0.1.0-beta.49.zip",
-  "sha256": "611e2428a9261e5f457dc7a0e9daf1cc89a7db39cd391bc382f294ebf17ef7d1",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.49/Rabbitty-Beta-0.1.0-beta.49.dmg",
-  "notes": "Dev-server ports in the sidebar — a running server (:3000) shows a chip on its lane; click it to open that lane's in-app browser straight on localhost.\n\n⌘-click now opens URLs that wrap across lines whole — including the hard-wrapped links Claude Code and other TUIs print, where clicking any row resolves the full link.\n\nWorkspaces: ⌘⌥O reopens a recently-closed workspace and its terminals; ⌘⌥↓/↑ cycles workspaces; ⌘⌥⌫ removes one. ⌘P quick switcher now shows each terminal's agent logo and reads 'workspace / lane'. Scratch terminals get per-lane cards you can promote to a workspace.\n\nPolish: radar-ping status dot for working agents; Changes-panel file headers stop clipping long names; browser address bar reads host/path flush; the worktree-delete prompt takes focus so Enter confirms right away."
+  "version": "0.1.0-beta.50",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.50/Rabbitty-Beta-0.1.0-beta.50.zip",
+  "sha256": "a77b37cd9828249b772c8e37108a5c9ccc4825087773da5e98c37d39f9a8a326",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.50/Rabbitty-Beta-0.1.0-beta.50.dmg",
+  "notes": "Workspaces remember your place. Entering a workspace — by ⌘1–9 or by clicking its lane in the sidebar — now returns you to the tab you were last on there, instead of always snapping to its first terminal. Each workspace tracks its own last tab independently, and the memory is seeded on launch so the first hop away and back works too.\n\nAlso: a new ⌘⌥O 'Recent workspaces' hint in the tips rotation."
 }
