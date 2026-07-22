@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.51",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.51/Rabbitty-Beta-0.1.0-beta.51.zip",
-  "sha256": "7ac89ba1982fdd9592e1f6c0d42783146cc68fc2616b724a0a15f8844225d1b8",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.51/Rabbitty-Beta-0.1.0-beta.51.dmg",
-  "notes": "Rabbitty's browser + terminal control MCP servers now auto-register into six more agents — opencode, Cursor, Copilot, Antigravity, Codex, and Grok — not just Claude. Each gets our two servers merged into its own config file, idempotently and additively: your own MCP servers, comments, and formatting are left untouched. So the in-app browser and managed dev-server tabs work from whichever agent you launch.\n\nNotifications got more reliable: clicking 'Show' on a banner now focuses the right terminal by a stable id, even after you've reordered or closed tabs, and every banner (including errors) now carries Rabbitty's icon.\n\nQuick switcher (⌘P) redesign: every terminal is a flat row with a full 'workspace / lane · name' breadcrumb and a status dot, so you can jump to any agent or shell anywhere — including plain shells, which were missing before. Search now matches workspace names too."
+  "version": "0.1.0-beta.52",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.52/Rabbitty-Beta-0.1.0-beta.52.zip",
+  "sha256": "96ce38867f05bded8a7c39bb9d576c79529b7edbe9b88c57701c814a2be737bb",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.52/Rabbitty-Beta-0.1.0-beta.52.dmg",
+  "notes": "Two new panels in the right dock.\n\nPull Requests (⌘⇧R): every PR/MR across your GitHub and GitLab accounts — yours and ones awaiting your review — read straight from the gh/glab CLIs you already use, no tokens held. A gear menu enables/disables providers, a refresh button re-pulls (and every open re-fetches), and each row has copy-link and open-in-browser actions.\n\nJira (⌘⇧J): your active sprint and everything assigned to you, from the jira CLI. Each task can be handed to the pane's agent to plan, or its link copied; issues group under status headers. Guided in-panel setup when the CLI isn't configured yet.\n\nBoth panels auto-resolve tokens from your login shell, so they work even when Rabbitty is launched from the Dock. Plus a refreshed app icon and a crisper menu-bar mark."
 }
