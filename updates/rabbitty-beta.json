@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.52",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.52/Rabbitty-Beta-0.1.0-beta.52.zip",
-  "sha256": "96ce38867f05bded8a7c39bb9d576c79529b7edbe9b88c57701c814a2be737bb",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.52/Rabbitty-Beta-0.1.0-beta.52.dmg",
-  "notes": "Two new panels in the right dock.\n\nPull Requests (⌘⇧R): every PR/MR across your GitHub and GitLab accounts — yours and ones awaiting your review — read straight from the gh/glab CLIs you already use, no tokens held. A gear menu enables/disables providers, a refresh button re-pulls (and every open re-fetches), and each row has copy-link and open-in-browser actions.\n\nJira (⌘⇧J): your active sprint and everything assigned to you, from the jira CLI. Each task can be handed to the pane's agent to plan, or its link copied; issues group under status headers. Guided in-panel setup when the CLI isn't configured yet.\n\nBoth panels auto-resolve tokens from your login shell, so they work even when Rabbitty is launched from the Dock. Plus a refreshed app icon and a crisper menu-bar mark."
+  "version": "0.1.0-beta.53",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.53/Rabbitty-Beta-0.1.0-beta.53.zip",
+  "sha256": "5b50aec6a43d611524d34f71923d234c9860bda86400eea72f781b61c111d1cf",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.53/Rabbitty-Beta-0.1.0-beta.53.dmg",
+  "notes": "Faster, calmer integration panels and a fix for the reopen glitch.\n\nPull Requests / Jira: both inboxes now prefetch in the background at launch, so the first ⌘⇧R / ⌘⇧J shows a warm list instead of Loading. The pull-request fetch also runs its per-host queries concurrently, so a refresh takes as long as the slowest call, not the sum. And a Dock-launch race that could leave a restored Jira panel stuck on 'Not configured' is fixed — the fetch now waits for your shell environment (and token) to resolve first.\n\nJira is simplified to one fast view: your open issues assigned to you, grouped by status, with a refresh button.\n\nNew: ⌘[ / ⌘] walk back and forward through the terminals you've focused, like a browser. Plus a refined app icon and a right-sized menu-bar mark."
 }
