@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/screenshot.png" alt="Rabbitty — coordinating multiple AI coding agents in parallel worklanes" width="900">
+</p>
+
 # Rabbitty 🐇
 
 **A keyboard-driven, worklane terminal for macOS that coordinates your AI coding
