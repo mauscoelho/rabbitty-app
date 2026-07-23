@@ -23,8 +23,7 @@ Signed + notarized by Apple, so it opens with no warning. Universal — works on
 ### Or via Homebrew
 
 ```bash
-brew tap mauscoelho/tap
-brew install --cask rabbitty-beta
+brew install --cask mauscoelho/tap/rabbitty-beta
 ```
 
 Either way, **Rabbitty updates itself** — when a new beta ships, an **Update**
