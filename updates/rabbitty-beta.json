@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.54",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.54/Rabbitty-Beta-0.1.0-beta.54.zip",
-  "sha256": "4f260e9fffff8f8be4ce9eddc4e94cdbe68e2ab12f1f722f2aa4c5c60afc7069",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.54/Rabbitty-Beta-0.1.0-beta.54.dmg",
-  "notes": "A big pass on the git Changes panel, plus a third Pull Requests tab and a resizable sidebar.\n\nChanges panel, rebuilt Zed-style: each file now leads with a colored status letter (A new, M modified, D deleted, R renamed) instead of a chevron and text badge, the row dividers are gone for a cleaner column, and each file shows a clear + N  − N ledger. Split-diff filler lines are readable again, the active row lost its orange tint, and the panel toggle wears a proper git-branch icon.\n\nPull Requests: a new Following tab sits next to Mine and For my review; cards now hug their content (no more empty gap at the bottom) and a long title clamps to two lines instead of stretching the card.\n\nJira: hand an issue straight to the pane's agent to start planning it.\n\nAlso: the left sidebar is resizable and remembers its width, ⌘R opens and closes the right panel in one press, and Google sign-in works in the in-app browser."
+  "version": "0.1.0-beta.55",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.55/Rabbitty-Beta-0.1.0-beta.55.zip",
+  "sha256": "c6e7fb19de10ddcf619c668a2e59046c3a2b3de5cfb7ea3703f17da5d476b10c",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.55/Rabbitty-Beta-0.1.0-beta.55.dmg",
+  "notes": "Fixes the integration panels when Rabbitty is launched from the Dock.\n\nPull Requests (⌘⇧R) and Jira (⌘⇧J) now find your Homebrew-installed gh / glab / jira CLIs. A Dock-launched app inherits only a minimal PATH, so these panels could report an installed, signed-in CLI as 'not installed' — Rabbitty now resolves each CLI to its real path first. If a panel wrongly showed 'not configured', this is the fix."
 }
