@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.55",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.55/Rabbitty-Beta-0.1.0-beta.55.zip",
-  "sha256": "c6e7fb19de10ddcf619c668a2e59046c3a2b3de5cfb7ea3703f17da5d476b10c",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.55/Rabbitty-Beta-0.1.0-beta.55.dmg",
-  "notes": "Fixes the integration panels when Rabbitty is launched from the Dock.\n\nPull Requests (⌘⇧R) and Jira (⌘⇧J) now find your Homebrew-installed gh / glab / jira CLIs. A Dock-launched app inherits only a minimal PATH, so these panels could report an installed, signed-in CLI as 'not installed' — Rabbitty now resolves each CLI to its real path first. If a panel wrongly showed 'not configured', this is the fix."
+  "version": "0.1.0-beta.56",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.56/Rabbitty-Beta-0.1.0-beta.56.zip",
+  "sha256": "af11e0d1d006524f296ce2f7178dec017feff6a851ed34bf87b7e8f8cafce324",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.56/Rabbitty-Beta-0.1.0-beta.56.dmg",
+  "notes": "Smoother diffs, drag-and-drop paths, and a one-click conflict fixer.\n\nDiff scrolling: the mouse wheel now moves a few rows per notch instead of crawling one line at a time, and large diffs scroll without stutter — the view no longer re-lays-out every file on each scroll tick. Trackpad scrolling is unchanged.\n\nDrag a file from Finder onto the terminal and its path drops in at the prompt, shell-quoted (spaces and all), just like a stock macOS terminal. Nothing runs — you edit and hit return yourself.\n\nPull Requests: a PR/MR with merge conflicts now shows a 'Fix conflicts with agent' button — it hands your pane's agent the branch and asks it to check out, merge in the target, resolve by intent, and confirm with you before pushing."
 }
