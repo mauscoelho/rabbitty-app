@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.53",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.53/Rabbitty-Beta-0.1.0-beta.53.zip",
-  "sha256": "5b50aec6a43d611524d34f71923d234c9860bda86400eea72f781b61c111d1cf",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.53/Rabbitty-Beta-0.1.0-beta.53.dmg",
-  "notes": "Faster, calmer integration panels and a fix for the reopen glitch.\n\nPull Requests / Jira: both inboxes now prefetch in the background at launch, so the first ⌘⇧R / ⌘⇧J shows a warm list instead of Loading. The pull-request fetch also runs its per-host queries concurrently, so a refresh takes as long as the slowest call, not the sum. And a Dock-launch race that could leave a restored Jira panel stuck on 'Not configured' is fixed — the fetch now waits for your shell environment (and token) to resolve first.\n\nJira is simplified to one fast view: your open issues assigned to you, grouped by status, with a refresh button.\n\nNew: ⌘[ / ⌘] walk back and forward through the terminals you've focused, like a browser. Plus a refined app icon and a right-sized menu-bar mark."
+  "version": "0.1.0-beta.54",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.54/Rabbitty-Beta-0.1.0-beta.54.zip",
+  "sha256": "4f260e9fffff8f8be4ce9eddc4e94cdbe68e2ab12f1f722f2aa4c5c60afc7069",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.54/Rabbitty-Beta-0.1.0-beta.54.dmg",
+  "notes": "A big pass on the git Changes panel, plus a third Pull Requests tab and a resizable sidebar.\n\nChanges panel, rebuilt Zed-style: each file now leads with a colored status letter (A new, M modified, D deleted, R renamed) instead of a chevron and text badge, the row dividers are gone for a cleaner column, and each file shows a clear + N  − N ledger. Split-diff filler lines are readable again, the active row lost its orange tint, and the panel toggle wears a proper git-branch icon.\n\nPull Requests: a new Following tab sits next to Mine and For my review; cards now hug their content (no more empty gap at the bottom) and a long title clamps to two lines instead of stretching the card.\n\nJira: hand an issue straight to the pane's agent to start planning it.\n\nAlso: the left sidebar is resizable and remembers its width, ⌘R opens and closes the right panel in one press, and Google sign-in works in the in-app browser."
 }
