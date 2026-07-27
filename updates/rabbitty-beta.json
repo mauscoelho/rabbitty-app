@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.58",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.58/Rabbitty-Beta-0.1.0-beta.58.zip",
-  "sha256": "9cd69c9797281da0271790ad3e8e0b3e81c52f65a5ecc583681c44884b091ea8",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.58/Rabbitty-Beta-0.1.0-beta.58.dmg",
-  "notes": "Compact sidebar rail — ⌘⌥B collapses the sidebar to a slim icon rail and expands it back; the state persists across launches. Browser pane — Desktop mode keeps a much wider, readable strip of terminal beside the page, and narrow windows shrink that strip before ever squeezing the page below phone width."
+  "version": "0.1.0-beta.59",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.59/Rabbitty-Beta-0.1.0-beta.59.zip",
+  "sha256": "d70b418a1450164ba3a0a5241f61990e1e7acfdd01f00a9a370ba0c1446b0bad",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.59/Rabbitty-Beta-0.1.0-beta.59.dmg",
+  "notes": "Sidebar lanes get color and a name — each lane tile is tinted with its project's own hue (a checkout and all its worktrees share one color, and the palette avoids the amber/green/blue/red the status language owns), and a lane chip in the top bar names the lane you're in when the sidebar is collapsed. Pick which agent gets the work — clicking a Pull Request or Jira row now opens a handoff picker of your agent panes instead of always handing to the current pane; each pane is labelled the way the sidebar names it (project, or project / worktree). Followed PRs say when they're over — a followed row that merges or closes shows a MERGED/CLOSED badge, drops the stale merge-status chip, and swaps its handoff from Review to Summarize."
 }
