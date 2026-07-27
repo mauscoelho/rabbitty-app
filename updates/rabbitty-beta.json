@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.57",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.57/Rabbitty-Beta-0.1.0-beta.57.zip",
-  "sha256": "6075a53a5e1e7041bb88d4970edcdb2f166da7cdde34b3c45fd252f7a68165a5",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.57/Rabbitty-Beta-0.1.0-beta.57.dmg",
-  "notes": "Unified agent hand-off: send a Jira task, pull request, or merge conflict to the pane's agent from one picker. In-panel Jira token setup. Merge-request panel filters by provider chip. Closing a tab now focuses its neighbor in the same workspace lane. Agents route dev servers to managed terminal tabs and short commands to their own shell, and reach for the in-app browser over curl."
+  "version": "0.1.0-beta.58",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.58/Rabbitty-Beta-0.1.0-beta.58.zip",
+  "sha256": "9cd69c9797281da0271790ad3e8e0b3e81c52f65a5ecc583681c44884b091ea8",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.58/Rabbitty-Beta-0.1.0-beta.58.dmg",
+  "notes": "Compact sidebar rail — ⌘⌥B collapses the sidebar to a slim icon rail and expands it back; the state persists across launches. Browser pane — Desktop mode keeps a much wider, readable strip of terminal beside the page, and narrow windows shrink that strip before ever squeezing the page below phone width."
 }
