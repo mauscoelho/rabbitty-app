@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.59",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.59/Rabbitty-Beta-0.1.0-beta.59.zip",
-  "sha256": "d70b418a1450164ba3a0a5241f61990e1e7acfdd01f00a9a370ba0c1446b0bad",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.59/Rabbitty-Beta-0.1.0-beta.59.dmg",
-  "notes": "Sidebar lanes get color and a name — each lane tile is tinted with its project's own hue (a checkout and all its worktrees share one color, and the palette avoids the amber/green/blue/red the status language owns), and a lane chip in the top bar names the lane you're in when the sidebar is collapsed. Pick which agent gets the work — clicking a Pull Request or Jira row now opens a handoff picker of your agent panes instead of always handing to the current pane; each pane is labelled the way the sidebar names it (project, or project / worktree). Followed PRs say when they're over — a followed row that merges or closes shows a MERGED/CLOSED badge, drops the stale merge-status chip, and swaps its handoff from Review to Summarize."
+  "version": "0.1.0-beta.60",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.60/Rabbitty-Beta-0.1.0-beta.60.zip",
+  "sha256": "08f3e323efee866e2d0adc6e1fa2900738b04345a477ab96e4087817f6720cd9",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.60/Rabbitty-Beta-0.1.0-beta.60.dmg",
+  "notes": "Top bar reimagined: session tabs are now seated on the bar's bottom edge — the active tab wears the pane's own color and runs into the grid, reading as the pane's near edge instead of a floating pill. The lane chip is re-ranked to be the clear 'where am I' anchor (full-strength name, real gutter), and the project/branch separator is now a colon (project:branch) so it never blurs into a slashy branch name. Hold ⌘ to peek the ⌘1–9 workspace numbers on the compact sidebar rail, with a bigger lane-color swatch. In the AI Trail (⌘⇧L) the Changes/History tab switch no longer shows, since neither names what you're reading."
 }
