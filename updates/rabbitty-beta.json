@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.61",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.61/Rabbitty-Beta-0.1.0-beta.61.zip",
-  "sha256": "16930dd8dac43af0c449f40148ab8d19cc15707134572d2fd75e489fb4e6a735",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.61/Rabbitty-Beta-0.1.0-beta.61.dmg",
-  "notes": "Work from your phone — the big one. Rabbitty now hands you every pane on your Mac (what each agent is doing, which ones are waiting on you) on a phone, with nothing to install on the phone and no port opened on your Mac. Open Connect from your phone (⌘⇧P), turn the link on, and scan the QR once: both ends dial out to an end-to-end-encrypted relay that only ever sees ciphertext, and pairing is per-device with revoke on the same card. The page is an inbox rather than a terminal viewer — whoever needs you first, grouped by project and worktree the way the sidebar groups them. Tap one to read its screen and reply, and that works for any agent, not only the ones that stopped to ask. Send it a photo, read the terminal in its own colours and weights, wrap the text to the phone or fit it to the terminal, and wrap a whole worktree up from the bus stop. Over SSH, rab drives the same panes from a phone shell. Also: keeping the Mac awake is a note now rather than a requirement — Amphetamine, caffeinate -s, or Battery settings, your call — and optional rows no longer draw a red cross that made a choice look like a fault."
+  "version": "0.1.0-beta.62",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.62/Rabbitty-Beta-0.1.0-beta.62.zip",
+  "sha256": "f99d8216fe85714d8448be3c3e81de90bd686212b089996c9f3d9535425ec837",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.62/Rabbitty-Beta-0.1.0-beta.62.dmg",
+  "notes": "opencode status works again. Since beta.46-era hardening, the hook socket has required a per-pane token, and the opencode status plugin was never updated to send one — so every report it made was dropped unread and opencode panes sat on Idle. The plugin now carries the token. Nothing to install: the app refreshes the plugin in opencode's config on launch."
 }
