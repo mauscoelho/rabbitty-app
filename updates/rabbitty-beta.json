@@ -3,5 +3,5 @@
   "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.62/Rabbitty-Beta-0.1.0-beta.62.zip",
   "sha256": "f99d8216fe85714d8448be3c3e81de90bd686212b089996c9f3d9535425ec837",
   "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.62/Rabbitty-Beta-0.1.0-beta.62.dmg",
-  "notes": "opencode status works again. Since beta.46-era hardening, the hook socket has required a per-pane token, and the opencode status plugin was never updated to send one — so every report it made was dropped unread and opencode panes sat on Idle. The plugin now carries the token. Nothing to install: the app refreshes the plugin in opencode's config on launch."
+  "notes": "opencode status works again. On 14 July the hook socket started requiring a per-pane token, and the opencode status plugin was never updated to send one — so every report it made was dropped unread and opencode panes sat on Idle for three weeks. The plugin now carries the token. Nothing to install: the app refreshes the plugin in opencode's config on launch."
 }
