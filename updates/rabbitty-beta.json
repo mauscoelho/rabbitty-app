@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.63",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.63/Rabbitty-Beta-0.1.0-beta.63.zip",
-  "sha256": "7d43db60ea91e6677336b6e50d6ee9c0cc801b1343a743fcfcd2b2d817abdeb4",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.63/Rabbitty-Beta-0.1.0-beta.63.dmg",
-  "notes": "Dock focus navigation with Cmd-Opt-Right, project tint swatches, and terminal panel improvements."
+  "version": "0.1.0-beta.64",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.64/Rabbitty-Beta-0.1.0-beta.64.zip",
+  "sha256": "679f489215ba91c6137020d22b1aa0b5c44766c4c00ea8f833ac80d9ceee6142",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.64/Rabbitty-Beta-0.1.0-beta.64.dmg",
+  "notes": "Shared agent memory across fresh sessions.\n\n- Adds a local, project-scoped memory store shared through MCP.\n- Adds a Memory panel for reviewing, approving, rejecting, and archiving memories and procedures.\n- New tasks start fresh with memory, while unfinished tabs still resume their exact conversation.\n- Claude transcripts become searchable locally and include token/cache usage metrics."
 }
