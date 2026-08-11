@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.64",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.64/Rabbitty-Beta-0.1.0-beta.64.zip",
-  "sha256": "679f489215ba91c6137020d22b1aa0b5c44766c4c00ea8f833ac80d9ceee6142",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.64/Rabbitty-Beta-0.1.0-beta.64.dmg",
-  "notes": "Shared agent memory across fresh sessions.\n\n- Adds a local, project-scoped memory store shared through MCP.\n- Adds a Memory panel for reviewing, approving, rejecting, and archiving memories and procedures.\n- New tasks start fresh with memory, while unfinished tabs still resume their exact conversation.\n- Claude transcripts become searchable locally and include token/cache usage metrics."
+  "version": "0.1.0-beta.65",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.65/Rabbitty-Beta-0.1.0-beta.65.zip",
+  "sha256": "73038b71d4c5696aee409fbedcb2e7221df9927166f5389d04820093d8e52ffb",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.65/Rabbitty-Beta-0.1.0-beta.65.dmg",
+  "notes": "Interactive terminal dock\n\n- Work in a parked terminal without displacing the main pane.\n- Promote a dock terminal to the main pane and automatically close the dock.\n- Move the terminal back to the right dock from its top-bar control.\n- Refined terminal navigation, focus, keybindings, links, and workspace actions."
 }
