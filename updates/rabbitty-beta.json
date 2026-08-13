@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.65",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.65/Rabbitty-Beta-0.1.0-beta.65.zip",
-  "sha256": "73038b71d4c5696aee409fbedcb2e7221df9927166f5389d04820093d8e52ffb",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.65/Rabbitty-Beta-0.1.0-beta.65.dmg",
-  "notes": "Interactive terminal dock\n\n- Work in a parked terminal without displacing the main pane.\n- Promote a dock terminal to the main pane and automatically close the dock.\n- Move the terminal back to the right dock from its top-bar control.\n- Refined terminal navigation, focus, keybindings, links, and workspace actions."
+  "version": "0.1.0-beta.66",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.66/Rabbitty-Beta-0.1.0-beta.66.zip",
+  "sha256": "f48a6a531c421adb783183387b57e3741e40771fb6a6c6ca34fa4129608c31a9",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.66/Rabbitty-Beta-0.1.0-beta.66.dmg",
+  "notes": "Spaces and tools, rebuilt\n\n- Clarified workspace identity: agent logo before the title, live status on the right, and matched plus/minus controls.\n- Put every tool directly in the right rail, added editor access at the top, and made the rail fully keyboard navigable.\n- Reworked shortcuts: Terminals is now Control-Backtick; risky and redundant defaults were removed; modal and text-field contexts prevent accidental background actions.\n- Custom keymap rebindings now replace defaults, Memory is bindable, and every visible shortcut hint follows the live keymap."
 }
