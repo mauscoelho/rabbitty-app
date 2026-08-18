@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-beta.70",
-  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.70/Rabbitty-Beta-0.1.0-beta.70.zip",
-  "sha256": "6a23825fa6ddb99ce6157df91d550c86a7590c18616a91c541e4a646ec62cfd6",
-  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.70/Rabbitty-Beta-0.1.0-beta.70.dmg",
-  "notes": "The window got a working-over.\n\n• Rename a session — click its name in the top bar, or ⌘⇧E. The rail row follows it.\n• The Spaces rail is a list: one line per space under its project, foldable, and each row leads with what its agent is doing — a spinner while it works, an amber dot when it needs you.\n• Project headers have actions on hover: + starts an agent there, … cuts a worktree or drops the project.\n• The status bar is the pane's footer now — project / branch / +N −N. Click the diffstat to open Changes.\n• The right tool rail is gone. Its tools are the dock's tabs, and ⌘R opens and closes the dock.\n• The diffstat counts new files, so an agent writing untracked files no longer reads as +0 −0.\n• Fixed: folding the project you were standing in crashed the app on every launch."
+  "version": "0.1.0-beta.71",
+  "zip_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.71/Rabbitty-Beta-0.1.0-beta.71.zip",
+  "sha256": "d3485a073f15aaf04810071b5ff60a69febba6c06d0abbf2844038777cf34ef7",
+  "dmg_url": "https://github.com/mauscoelho/rabbitty-app/releases/download/v0.1.0-beta.71/Rabbitty-Beta-0.1.0-beta.71.dmg",
+  "notes": "The sidebar list is now called Spaces, and the ＋ that adds one lives on its caption — the top bar no longer carries it.\nA space row grows its own hover cluster: ⋯ opens the menu, ＋ starts an agent there.\nThe space menu spells its worktree verbs out — Merge to main and Delete worktree are their own rows, not one wrap-up.\nThat menu now opens directly under the dots that opened it, and the dots stay lit while it's open.\nRemoving a worktree closes every terminal inside it — managed tabs and diff views included."
 }
